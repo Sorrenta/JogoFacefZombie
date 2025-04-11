@@ -16,7 +16,7 @@ Dica: (Eles podem morrer entre 1 a 5 tiros, descubra) 💀
 ## Desenvolvimento 🖥️
 O jogo está em estado de desenvolvimento e um experimento/teste, poderá ter alguns bugs.
 
-# Banco de dados
+# Banco de dados Firebase NoSQL
 ![image](https://github.com/user-attachments/assets/e4ec608d-2326-4f01-bc65-380ec1492748)
 
 
